@@ -1,6 +1,14 @@
 #exercise 2 : faulty calculator
+# errors in calculator are :
+#--->45*3 = 55 
+#--->56+9 = 77 
+#--->56/6 = 3 
+
+# taking input operator for operation
 inp1 = input("operator")
+# enter 1st number from user
 inp2 = input("enter first number")
+# enter 2nd number from user
 inp3 = input("enter second number")
 
 new_input = inp2 + inp1 + inp3
