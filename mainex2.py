@@ -21,8 +21,6 @@ elif new_input == "56/6":
     print(3)
 elif inp1 == "*":
     print(int(inp2) * int(inp3))
-elif inp1 == "*":
-    print(int(inp2) * int(inp3))
 elif inp1 == "+":
     print(int(inp2) + int(inp3))
 elif inp1 == "-":
