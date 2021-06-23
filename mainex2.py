@@ -1,5 +1,5 @@
 #exercise 2 : faulty calculator
-# errors in calculator are :
+# taking input of operator and two numbers from user creat a calculator which will solve calculations correctly except follwing calculations :
 #--->45*3 = 55 
 #--->56+9 = 77 
 #--->56/6 = 3 
