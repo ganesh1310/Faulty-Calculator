@@ -3,6 +3,8 @@
 #--->45*3 = 55 
 #--->56+9 = 77 
 #--->56/6 = 3 
+# To run the program code user should give two numbers as input with operator which perform operation with given input and shows the result .
+
 
 # taking input operator for operation
 inp1 = input("operator")
